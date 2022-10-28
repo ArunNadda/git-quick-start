@@ -9,3 +9,5 @@
 
 - `git commit -m "text describe"`
 - `git rm <file>`
+
+- `git checkout <filename>` # to restore `rm` files
